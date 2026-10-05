@@ -1,0 +1,35 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Distribution / packaging (PyInstaller output)
+build/
+dist/
+*.spec.bak
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editors
+.vscode/
+.idea/
+tempCodeRunnerFile.py
+
+# User-specific runtime files (created automatically, never commit these)
+*.log
+.yt_downloader_config.json
+.yt_downloader.log
+
+# System
+.DS_Store
+Thumbs.db
